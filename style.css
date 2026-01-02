@@ -1,0 +1,22 @@
+button {
+    border: 1px solid var(--grey-3);
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 10px 5px;
+    cursor: pointer;
+}
+
+input {
+    border: 1px solid var(--grey-1);
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 10px 5px;
+}
+
+input:focus {
+    outline: none;
+}
+
+/* input[type='submit']:hover {
+    background-color: #ddd;
+} */
