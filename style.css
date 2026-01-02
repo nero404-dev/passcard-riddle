@@ -17,6 +17,6 @@ input:focus {
     outline: none;
 }
 
-/* input[type='submit']:hover {
-    background-color: #ddd;
-} */
+p {
+    font-size: 8px;
+}
